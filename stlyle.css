@@ -1,0 +1,30 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    width: 500px;
+    height: 700px;
+}
+
+h1 { 
+    display: inline-block;
+    width: 200px;
+    height: 300px;
+    text-align: center;
+}
+
+.image {
+    display: inline-block;
+    width: 200px;
+    height: 300px;
+}
+
+p {
+    width: 50%;
+    height: 50%;
+    float: right;
+}
